@@ -6,6 +6,18 @@
     <PackageId>SharkVectorset</PackageId>
     <Product>SharkVectorset</Product>
     <Copyright>&lt;c&gt;Sharkbyteprojects</Copyright>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <Description>A Small Vector Class Definition (Vector 3 and Vector 2) and it has a function in the static class functionvector that calc difference between 2 vector2
+ public static float diffBetween(Vector2 vectora, Vector2 vectorb)</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
