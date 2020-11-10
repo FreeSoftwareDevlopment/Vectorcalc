@@ -6,5 +6,5 @@
 Example for show difference between 2 vectors
 
 ```
-Console.writeLine(new functionvector().diffBetween(new Vector2(), new Vector2(3, 8)));
+Console.writeLine(functionvector.diffBetween(new Vector2(), new Vector2(3, 8)));
 ```
