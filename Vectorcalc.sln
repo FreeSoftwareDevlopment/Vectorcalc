@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vectorcalc", "Vectorcalc\Vectorcalc.csproj", "{4EFAF343-2CE1-4185-BC9A-744A6822DFDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EFAF343-2CE1-4185-BC9A-744A6822DFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFAF343-2CE1-4185-BC9A-744A6822DFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFAF343-2CE1-4185-BC9A-744A6822DFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFAF343-2CE1-4185-BC9A-744A6822DFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {887F7388-5B0D-4C95-ADCE-246720EDFEB1}
+	EndGlobalSection
+EndGlobal

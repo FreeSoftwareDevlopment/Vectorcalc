@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Sharkbyteprojects</Authors>
+    <PackageId>SharkVectorset</PackageId>
+    <Product>SharkVectorset</Product>
+    <Copyright>&lt;c&gt;Sharkbyteprojects</Copyright>
+  </PropertyGroup>
+
+</Project>
